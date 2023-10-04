@@ -9,7 +9,7 @@ VariantPlot can be used to easily create figures that highlight the features of 
 Here's an example of what the output looks like by default, but there's lots of options for customisation too. 
 ![plot](example_input_plot_1.png)
 
-All you need is to fill in some basic information in a template Excel sheet. 
+All you need is to fill in some basic information in a template Excel sheet. [Here's a template of the input Excel file.](https://github.com/jkaczmarski/variantplot/blob/main/example_input.xlsx)  
 
 Currently, you can easily annotate things such as:
 - sequence start and end residues
