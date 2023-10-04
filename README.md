@@ -1,4 +1,27 @@
 # VariantPlot
-To create figures showing different protein variants, mutants etc
 
+VariantPlot can be used to easily create figures that highlight the features of a protein construct/variant. Single proteins can be plotted, but you can also use VariantPlot to generate figures that compare different protein constructs. 
+
+Here's an example of the output. 
 ![plot](example_input_plot_1.png)
+
+All you need is to fill in some basic informations in a template excel sheet. 
+
+**Currently, you can easily annotate things such as: **
+- sequence start and end residues
+- substitution sites
+- glycosylation sites
+- residue, site-specific user-defined labels
+- protease cut-sites
+- N-terminal tags/flanks
+- C-terminal tags/flanks
+- Variant name & references
+
+VariantPlot can output both png files or svvg files, the latter which can be easily edited further in programs such as Illustrator. 
+
+The style of the figures is customisable without having to edit code - you can easily change colors, fonts, text size etc. 
+
+Please let me know if you have any requests for additional features or run into any bugs or issues. 
+
+
+
