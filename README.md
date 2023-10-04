@@ -1,5 +1,9 @@
 # VariantPlot
 
+<a target="_blank" href="https://colab.research.google.com/github/jkaczmarski/variantplot/blob/main/VariantPlot.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 VariantPlot can be used to easily create figures that highlight the features of protein constructs & variant. Single proteins can be plotted, but you can also use VariantPlot to generate figures that compare different protein constructs (e.g. truncations, mutants, tagged variants).  
 
 Here's an example of what the output looks like by default, but there's lots of options for customisation too. 
